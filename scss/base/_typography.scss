@@ -1,0 +1,16 @@
+/* ============================================= */
+/*              Typography                       */
+/* ============================================= */
+
+* {
+    font-family: $font-stack-primary;
+    color: $light-grey;
+}
+::placeholder {
+    color: $light-grey;
+    font-size: 12px;
+    padding-left: 15px;
+}
+
+
+
